@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+
+@import "bigSlider.css";
+@import "button.css";
+@import "card.css";
+@import "footer.css";
+@import "megaMenu.css";
+@import "navMenuDesktop.css";
+@import "navMenuMobile.css";
+@import "typo.css";
+@import "responsive.css";
+@import "megaMenuMobile.css";
+@import "userOnboard.css";
+@import "others.css";
+@import "productDetails.css";
+@import "common.css";
+@import "cart.css";
+
+button {
+    border: 0 !important;
+    outline: 0 !important;
+}
+
+small.text-danger.form-text {
+    text-align: start;
+    padding: 0 10px;
+}
